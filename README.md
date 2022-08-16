@@ -14,23 +14,22 @@ The challenge consist of an FAQ accordion that allows the user to click on diffe
 
 ### Links
 
-- Solution [here](https://dynamic-haupia-331709.netlify.app/)
+- Solution [here](https://venerable-dolphin-9cf5be.netlify.app/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties & animation
+- CSS custom properties & transition animation
 - JavaScript
 
 ### What I learned
 
 Thanks to this tutorial I have learnt and practised the following DOM manipulation concepts:
-- getElementById()
+- getElementsByClassName()
 - addEventListener()
-- e.target
-- CSS styling through JS
-- CSS Animation
+- for loop
+- classList.toggle()
 
 Would you like to know what the DOM is and what other concepts exist to manipulate and make cool and fun interactions? I have created 2 tutorials to explain and put in practise all concepts. Check them out:
 - [DOM manipulation I: what is the DOM? Selectors, styling, text modifiers & events](https://www.cristina-padilla.com/dom1.html).
